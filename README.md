@@ -24,7 +24,7 @@ The website is designed using HTML and CSS, and it also utilizes the Font Awesom
 
 ## Getting Started
 
-To get started with the Aurora Innovations website, follow these steps:
+To get started with the AuroraDesgin website, follow these steps:
 
 1. Download or clone this repository to your local machine.
 2. Open the `index.html` file in a web browser to view the website.
@@ -43,7 +43,7 @@ The website is designed to be a template for showcasing your own content and ser
 
 ## Customization
 
-You can customize the Aurora Innovations website to match your branding and content. Here are a few customization options:
+You can customize the AuroraDesgin website to match your branding and content. Here are a few customization options:
 
 1. **Logo and Favicon**: Replace the "Parallax" logo in the footer with your own logo. You can also update the favicon in the `<head>` section.
 2. **Colors and Styles**: Modify the `style.css` file to adjust colors, fonts, and other visual styles to match your branding.
