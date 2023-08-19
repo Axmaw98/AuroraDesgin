@@ -1,6 +1,8 @@
 # AuroraDesgin
 The AuroraDesgin website is a modern and visually appealing single-page website that showcases the company's services, portfolio, and contact information. It features a parallax scrolling effect, which provides an immersive and engaging user experience.
 
+![2023-08-18 19-22-56 (3)](https://github.com/Axmaw98/AuroraDesgin/assets/90964275/a05508de-d85a-482b-aaf0-a9da4e8e7914)
+
 ## Table of Contents
 
 - [Description](#description)
